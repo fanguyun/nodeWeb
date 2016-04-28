@@ -1,0 +1,247 @@
+
+Running node-supervisor with
+  program './bin/www'
+  --watch '.'
+  --extensions 'node,js,/bin/www'
+  --exec 'node'
+
+Starting child process with 'node ./bin/www'
+Watching directory 'D:\github\nodedemo' for changes.
+Press rs for restarting the process.
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+crashing child
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+Program node ./bin/www exited with code 1
+
+Starting child process with 'node ./bin/www'
+[0mGET /contact [32m200 [0m15.251 ms - 3313[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m5.042 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m6.385 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m6.458 ms - -[0m
+[0mGET /contact [36m304 [0m3.801 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.483 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m1.712 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.030 ms - -[0m
+[0mGET /contact [36m304 [0m2.803 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.264 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m1.834 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.250 ms - -[0m
+[0mGET /contact [36m304 [0m2.391 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m3.761 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m3.224 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m3.287 ms - -[0m
+[0mGET /contact [36m304 [0m4.552 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.385 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m2.631 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m2.264 ms - -[0m
+[0mGET /contact [36m304 [0m9.426 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m2.246 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m1.902 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.683 ms - -[0m
+[0mGET /contact [36m304 [0m1.788 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.673 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m1.932 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.705 ms - -[0m
+[0mGET / [36m304 [0m4.630 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m2.085 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m2.376 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.874 ms - -[0m
+[0mGET /contact [36m304 [0m1.579 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.004 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m0.718 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.014 ms - -[0m
+crashing child
+Starting child process with 'node ./bin/www'
+[0mGET / [36m304 [0m12.004 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m6.561 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m7.163 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m6.080 ms - -[0m
+[0mGET /contact [32m200 [0m5.718 ms - 3314[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.627 ms - -[0m
+[0mGET /javascripts/jquery-1.11.3.min.js [36m304 [0m1.517 ms - -[0m
+[0mGET /javascripts/bootstrap.min.js [36m304 [0m1.554 ms - -[0m
