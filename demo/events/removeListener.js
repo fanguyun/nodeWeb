@@ -2,6 +2,7 @@
  * Created by lenovo on 2016/4/27.
  */
 /*
+ C:\Users\lenovo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell
  *调用event模块，获取event.eventemitter的对象
  */
 var EventEmitter = require('events').EventEmitter;
