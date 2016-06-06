@@ -14,8 +14,9 @@ var connection = mysql.createConnection({
 connection.connect();//开始
 
 var  userAddSql = 'INSERT INTO userinfo(Id,UserName,UserPass) VALUES(0,?,?)';
-var  userAddSql_Params = ['jason', 'fan'];
-//增
+var  userAddSql_Params = ['MR', '30000'];
+
+//增加
 connection.query(userAddSql,userAddSql_Params,function (err, result) {
     if(err){
         console.log('[INSERT ERROR] - ',err.message);
@@ -25,7 +26,7 @@ connection.query(userAddSql,userAddSql_Params,function (err, result) {
     console.log('--------------------------INSERT----------------------------');
     //console.log('INSERT ID:',result.insertId);
     console.log('INSERT ID:',result);
-    console.log('-----------------------------------------------------------------\n\n');
+    console.log('-------------------------插入成功--------------------------\n\n');
 });
 
 connection.end();/*结束*/
